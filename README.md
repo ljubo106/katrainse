@@ -4,7 +4,7 @@
 [![License:MIT](http://img.shields.io/pypi/l/katrain)](http://en.wikipedia.org/wiki/MIT_License)
 [![GitHub Downloads](http://img.shields.io/github/downloads/ljubo106/katrainse/total?color=%23336699&label=github%20downloads)](http://github.com/ljubo106/katrainse/releases)
 
-KaTrainSE is a fork of KaTrain (see below) adding a stopgap simple position editor to bridge the time until the proper KaTrain board position editor gets implemented, see [here](https://github.com/sanderland/katrain/issues/190). It adds two UI buttons for insertion of white and black stones enabling simple and fast setup of a board position. Adding of stones is implemented by automatically inserting "pass" moves for the opposite color. This implements most basic edit functionality with minimal change of the KaTrain source code.
+KaTrainSE is a fork of KaTrain (see below) adding a stopgap simple position editor to bridge the time until the proper KaTrain board position editor gets implemented, see [here](https://github.com/sanderland/katrain/issues/190). It adds two UI buttons for insertion of black and white stones enabling simple and fast setup of a board position. Adding of stones is implemented by automatically inserting "pass" moves for the opposite color. This implements most basic edit functionality with minimal change of the KaTrain source code.
 
 <img src="https://raw.githubusercontent.com/ljubo106/katrainse/katrainse-1.12.3.x/screenshots/black_white.png" width="250">
 
